@@ -340,7 +340,7 @@ footer {
 
 /* Device = LOw Resolution Tab Lets, Mobiles (Lands cape) Screen = B/w 481px to 767px*/
 
- @media (min-width: 481px) and (max- width: 767px) {
+ @media (min-width: 481px) and (max-width: 767px) {
  header {
  padding-left: 36px; 
  padding-right: 36px;
