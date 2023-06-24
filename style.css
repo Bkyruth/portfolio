@@ -26,7 +26,7 @@ nav.menu {
     padding: 0;
 }
 nav .menu-list{
-    font-size: 24px;
+    font-size: 20px;
     color: #fff;
     display: inline-block;
     margin-right: 24px;
@@ -47,7 +47,7 @@ nav .menu-list{
 }
 .hero-container h1{
     color: #fff;
-    font-size: 40px;
+    font-size: 25px;
 }
 .icon-line{
     margin-top: 24px;
@@ -57,7 +57,7 @@ nav .menu-list{
     align-items: center;
 }
 .icon-line i{
-    font-size: 32px;
+    font-size: 28px;
 }
 .line {
     display: inline-block;
