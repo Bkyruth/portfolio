@@ -19,7 +19,7 @@ nav{
 }
 nav h2{
     color: #fff;
-    font-size: 38px;
+    font-size: 35px;
 }
 nav.menu {
     list-style: none;
@@ -47,7 +47,7 @@ nav .menu-list{
 }
 .hero-container h1{
     color: #fff;
-    font-size: 60px;
+    font-size: 40px;
 }
 .icon-line{
     margin-top: 24px;
