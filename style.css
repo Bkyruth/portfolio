@@ -230,29 +230,44 @@ margin-bottom: 38px;
 .icon-box .box .email {
     color: #24CC96;
 }
-/* Social styling*/
 .socials {
-    background-color: #2C3D4D;
-    color: #fff;
-    padding: 100px 120px 200px 120px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
+  background-color: #2C3D4D;
+
+  color: #fff;
+
+  padding: 100px 120px 200px 120px;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
 }
 .socials-container h1 {
-    text-align: center;
-    font-size: 52px;
-    margin-bottom: 38px;
+
+  text-align: center;
+
+  font-size: 52px;
+
+  margin-bottom: 38px;
 }
 .social-icons {
-    text-align: center;
+  text-align: center;
 }
 .social-icons span {
-    display: inline-block;
-    margin-right: 24px;
-    background-color: #24CC96;
-    padding: 10px 12px;
-    border-radius: 100%;
+
+  display: inline-block;
+
+  margin-right: 24px;
+
+  background-color: #24CC96;
+
+  padding: 10px 12px;
+
+  border-radius: 100%;
+
 }
 /* Footer */
 footer {
