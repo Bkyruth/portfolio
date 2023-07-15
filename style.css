@@ -360,14 +360,14 @@ footer {
 
  @media (min-width: 481px) and (max-width: 767px) {
  header {
- padding-left: 26px; 
- padding-right: 26px;
+ padding-left: 36px; 
+ padding-right: 36px;
 }
  nav h2 { 
-   font-size: 29px;
+   font-size: 32px;
  } 
  nav .menu-list { 
-   font-size: 12px; 
+   font-size: 16px; 
    margin-right: 10px;
  } 
  .hero-container h1,
