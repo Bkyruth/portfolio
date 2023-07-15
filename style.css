@@ -282,8 +282,8 @@ footer {
  @media (min-width: 320px) and (max-width: 479px){ 
 
  header {
- padding-left: 26px; 
- padding-right: 26px;
+ padding-left: 36px; 
+ padding-right: 36px;
 }
  nav h2 {
    font-size: 32px;
@@ -348,10 +348,10 @@ footer {
  icon-box .box small {
    margin-bottom: 10px;
  } 
- .smargin{
+ .socials {
  padding: 100px 80px 100px 80px;
 } 
- .Social-icons span{ 
+ .social-icons span { 
    margin-right: 2px;
 }
 } 
